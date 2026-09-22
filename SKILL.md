@@ -333,6 +333,11 @@ After the core work is done and tests pass:
 
 ### Code review (self)
 
+For the Data-team pre-PR checklist and fresh-context review loop, see
+[pre-PR self-check standard](skills/agent-pr-review/references/pre-pr-standard.md).
+When reviewing an agent-written PR, use the separate
+[agent-pr-review skill](skills/agent-pr-review/SKILL.md).
+
 Before proposing anything to the engineer, review your own work:
 
 1. **Self-consistency** — do all the pieces agree with each other? Are naming
